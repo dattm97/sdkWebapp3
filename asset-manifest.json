@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a937f4a6.css",
-    "main.js": "/static/js/main.6fc92adb.js",
-    "static/js/27.e236221a.chunk.js": "/static/js/27.e236221a.chunk.js",
+    "main.css": "/static/css/main.2c6de608.css",
+    "main.js": "/static/js/main.5d6d9717.js",
+    "static/js/27.db16b5a6.chunk.js": "/static/js/27.db16b5a6.chunk.js",
     "static/media/be-vietnam-pro-v10-vietnamese_latin-700.ttf": "/static/media/be-vietnam-pro-v10-vietnamese_latin-700.22ed1c36d7e001f27a6e.ttf",
     "static/media/be-vietnam-pro-v10-vietnamese_latin-800.ttf": "/static/media/be-vietnam-pro-v10-vietnamese_latin-800.4e3be3f47a3ffe4098ba.ttf",
     "static/media/be-vietnam-pro-v10-vietnamese_latin-600.ttf": "/static/media/be-vietnam-pro-v10-vietnamese_latin-600.2197b13cfdfa727a3e3b.ttf",
@@ -33,7 +33,7 @@
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs"
   },
   "entrypoints": [
-    "static/css/main.a937f4a6.css",
-    "static/js/main.6fc92adb.js"
+    "static/css/main.2c6de608.css",
+    "static/js/main.5d6d9717.js"
   ]
 }
