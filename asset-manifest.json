@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16d1b183.css",
-    "main.js": "/static/js/main.8d82358b.js",
+    "main.js": "/static/js/main.05bde6eb.js",
     "static/js/487.a5bf47fa.chunk.js": "/static/js/487.a5bf47fa.chunk.js",
     "static/js/685.b33d1033.chunk.js": "/static/js/685.b33d1033.chunk.js",
     "static/media/be-vietnam-pro-v10-vietnamese_latin-700.ttf": "/static/media/be-vietnam-pro-v10-vietnamese_latin-700.22ed1c36d7e001f27a6e.ttf",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.16d1b183.css",
-    "static/js/main.8d82358b.js"
+    "static/js/main.05bde6eb.js"
   ]
 }
